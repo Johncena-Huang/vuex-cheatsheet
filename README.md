@@ -11,7 +11,7 @@ At the component level, only **_actions_** and **_getter_** are exposed for use 
 
 ![The diagram of vuex life cycle](/public/vuex-life-cycle.png)
 
-## Register store
+## Register Store
 
 ```
 // main.js
